@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Erki Polo Manresa</h1>
-<h3 align="center">System and Data Network Administration</h3>
+<h3 align="center">System and Data Network Administrator</h3>
 
-- I’m currently working on **system and data network administrator**
+- I’m currently working on **system and data network administration**
 
 - I’m currently learning about **Gitlab CI/CD, Terraform, Ansible, Docker and Kubernetes**
 
