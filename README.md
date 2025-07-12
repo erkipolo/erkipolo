@@ -9,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/erki-polo-manresa-9a0924109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erki-polo-manresa-9a0924109" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@erkipolomanresa1164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@erkipolomanresa1164" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/erkipolo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erkipolo" height="30" width="40" /></a>
+<a href="https://youtube.com/@erkipolomanresa1164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@erkipolomanresa1164" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
